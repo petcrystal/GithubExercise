@@ -9,5 +9,4 @@
 
 ## 3rd Libraries
     - OkHttpClient
-    - 
 
