@@ -1,0 +1,109 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/fb_bg</item>
+        <item name="colorPrimaryDark">@color/fb_bg</item>
+        <item name="colorAccent">@color/fb_bg</item>
+        <item name="baseColorPrimary">@color/fb_bg</item>
+        <item name="backgroundCardColor">@android:color/white</item>
+        <item name="primaryTextColor">@color/fb_bg</item>
+        <item name="secondaryTextColor">@color/wording_gray</item>
+    </style>
+
+    <!--Dark mode-->
+    <style name="AppThemeDark" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/darkPrimary</item>
+        <item name="colorPrimaryDark">@color/darkPrimary</item>
+        <item name="colorAccent">@color/darkPrimary</item>
+        <item name="baseColorPrimary">@color/darkPrimary</item>
+        <item name="backgroundCardColor">@color/darkPrimary</item>
+        <item name="primaryTextColor">@android:color/white</item>
+        <item name="secondaryTextColor">@color/wording_gray</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+
+    <!--Action Bar-->
+    <style name="AndroidNavTitleWhite">
+        <item name="android:textSize">@dimen/main_navigation_txt</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+    <!--Text Style-->
+    <style name="TextStyle">
+        <item name="android:textColor">@color/wording_gray</item>
+        <item name="android:textSize">@dimen/default_text</item>
+        <item name="android:lineSpacingExtra">6sp</item>
+    </style>
+
+    <style name="TextWhite" parent="TextStyle">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="SmallWhite" parent="SmallText">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="SmallText" parent="TextStyle">
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+
+    <style name="BigText" parent="TextStyle">
+        <item name="android:textSize">@dimen/big_text</item>
+    </style>
+
+    <style name="ErrorText" parent="TextStyle">
+        <item name="android:textColor">@color/main_red</item>
+    </style>
+
+    <style name="TextRead" parent="TextStyle">
+        <item name="android:textColor">@color/main_red</item>
+    </style>
+
+    <style name="Text20" parent="TextStyle">
+        <item name="android:textSize">@dimen/text_20</item>
+    </style>
+
+    <style name="Text16" parent="TextStyle">
+        <item name="android:textSize">@dimen/text_16</item>
+    </style>
+
+    <style name="DialogText">
+        <item name="android:textColor">@color/black_87</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:lineSpacingExtra">8sp</item>
+    </style>
+
+    <style name="TitleBlackText">
+        <item name="android:textSize">@dimen/text_20</item>
+        <item name="android:textColor">@color/darkPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <!--Button Style-->
+    <style name="ButtonStyle">
+        <item name="android:textColor">@color/wording_gray</item>
+        <item name="android:textSize">@dimen/default_button</item>
+    </style>
+
+    <style name="BtnWhite" parent="ButtonStyle">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="LoginBtn" parent="ButtonStyle">
+        <item name="android:textColor">@color/wording_gray_a60</item>
+        <item name="android:background">@drawable/btn_login</item>
+    </style>
+
+
+</resources>

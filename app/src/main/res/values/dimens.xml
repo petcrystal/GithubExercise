@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Main Activity-->
+    <dimen name="main_navigation_txt">20dp</dimen>
+    <dimen name="tab_height">45dp</dimen>
+    <!--Channel-->
+    <dimen name="channel_tab_txt">16dp</dimen>
+    <dimen name="channel_list_header">8dp</dimen>
+    <dimen name="channel_list_header_null">0dp</dimen>
+
+    <!--Default Text Size-->
+    <dimen name="default_text">14dp</dimen>
+    <dimen name="small_text">12dp</dimen>
+    <dimen name="text_16">16dp</dimen>
+    <dimen name="text_20">20dp</dimen>
+    <dimen name="big_text">30dp</dimen>
+
+    <!--Default Button Size-->
+    <dimen name="default_button">16dp</dimen>
+
+</resources>

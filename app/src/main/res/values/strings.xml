@@ -1,0 +1,173 @@
+<resources>
+
+    <string name="notification_channel_id">最新消息</string>
+    <string name="confirm">確定</string>
+    <string name="cancel">取消</string>
+    <string name="next_continue">繼續</string>
+
+    <!--Facebook-->
+    <string name="facebook_app_id">546679632521939</string>
+    <string name="fb_login_protocol_scheme">fb546679632521939</string>
+
+
+    <!-- Tab Bar -->
+    <string name="nav_home">首頁</string>
+    <string name="nav_channel">頻道</string>
+    <string name="nav_hot">熱門</string>
+    <string name="nav_pay">付費</string>
+    <string name="nav_my">個人</string>
+
+    <string name="title_pay">付費專區</string>
+
+    <!--Operation-->
+    <string name="operation_start">開始使用</string>
+
+    <!--Channel-->
+    <string name="channel_overview">頻道總覽</string>
+    <string name="channel_edit">編輯排序</string>
+    <string name="channel_selected_type">選擇類別</string>
+    <string name="channel_all">所有</string>
+    <string name="channel_paid">付費</string>
+
+    <!--Login-->
+    <string name="login_with_facebook">使用Facebook登入</string>
+    <string name="login_with_google">使用Google登入</string>
+    <string name="login_or">或</string>
+    <string name="login_account">帳號</string>
+    <string name="login_password">密碼</string>
+    <string name="login_enter_account">請輸入帳號(email)</string>
+    <string name="login_enter_password">請輸入密碼</string>
+    <string name="login_sign_in">登入</string>
+    <string name="login_forget_password">忘記密碼</string>
+    <string name="login_forget_account">忘記帳號</string>
+    <string name="login_is_not_member">還不是會員？使用</string>
+    <string name="login_email_register">email註冊</string>
+    <string name="login_allow_privacy">當您按下註冊表示同意我們的</string>
+    <string name="login_service">服務條款</string>
+    <string name="login_and">與</string>
+    <string name="login_privacy">隱私權政策</string>
+    <string name="login_password_and_account_is_not_empty">帳號密碼不可為空</string>
+    <string name="login_not_verification">此帳號尚未驗證</string>
+    <string name="login_not_verification_description">驗證後即可登入，我們將傳送六位驗證碼至 %1$s</string>
+
+    <!--Register-->
+    <string name="register_password_wrong_format">密碼格式錯誤，請重新設定。</string>
+    <string name="register_email_wrong_format">email格式錯誤，請重新輸入。</string>
+    <string name="register_success">註冊成功</string>
+    <string name="register_account">email</string>
+    <string name="register_password">密碼</string>
+    <string name="register_name">姓名</string>
+    <string name="register_birthday">生日</string>
+    <string name="register_region_code">+886</string>
+    <string name="register_email_error">email格式錯誤</string>
+    <string name="register_not_want">暫不提供</string>
+    <string name="register_verification_code">6位數字驗證碼</string>
+    <string name="register_resend_verification_code">重新發送驗證碼</string>
+    <string name="register_your_email">您的email是？</string>
+    <string name="register_your_email_is_account">您輸入的email將作為您的帳號。</string>
+    <string name="register_your_password">請設定密碼</string>
+    <string name="register_your_password_description">密碼包含英數、底線，長度介於6~16字元。</string>
+    <string name="register_your_name">您的真實姓名？</string>
+    <string name="register_your_name_description">將作為會員顯示名稱</string>
+    <string name="register_your_gender">您的性別？</string>
+    <string name="register_your_gender_description">我們會透過性別差異提供更精準的推薦</string>
+    <string name="register_your_birthday">您的生日？</string>
+    <string name="register_your_birthday_description">會員將享有專屬生日禮</string>
+    <string name="register_your_phone">請輸入您的手機</string>
+    <string name="register_your_phone_description">我們將發送驗證碼至您的手機</string>
+    <string name="register_your_phone_verification">驗證您的手機</string>
+    <string name="register_your_phone_verification_description">系統已傳送6位數字驗證碼至 %1$s </string>
+    <string name="register_your_phone_verification_not_phone_code_description">系統已傳送6位數字驗證碼至您手機 </string>
+    <string name="register_change_to_email_verification">改用email進行驗證</string>
+    <string name="register_change_to_phone_verification">改用手機進行驗證</string>
+    <string name="register_send_email">email驗證信已寄送</string>
+    <string name="register_send_email_description">我們已經將驗證信寄至 %1$s ，請至信箱收信並認證。</string>
+    <string name="register_back_login">返回登入</string>
+    <string name="register_please_enter_password">請輸入密碼</string>
+    <string name="register_please_enter_password_description">確認您為帳戶本人，請先登入email帳號</string>
+    <string name="register_create_new_account">請輸入其他email</string>
+    <string name="register_create_new_account_description">請輸入 %1$s 之外的email作為帳號</string>
+
+    <!--Login Binding-->
+    <string name="login_binding_email_already_exists">這個email註冊過囉！</string>
+    <string name="login_binding_email_already_exists_description">您的信箱 %1$s 已註冊過商周會員，是否要將社群帳號與此信箱綁定？</string>
+    <string name="login_binding_yse_binding">是，我要綁定</string>
+    <string name="login_binding_no_want_create_new_account">否，我想用別的email創建帳號</string>
+    <string name="login_binding_binding_success">綁定成功</string>
+    <string name="login_binding_binding_success_description">綁定後，您將可以用email與社群登入同一帳號。</string>
+    <string name="login_binding_complete">完成</string>
+
+    <!--Forget-->
+    <string name="forget_phone_repeat_binding">手機號碼重複綁定</string>
+    <string name="forget_phone_repeat_binding_description">您的手機有重複綁定帳號，請直洽客服，由專人為您查詢。</string>
+    <string name="forget_call_service">撥打客服電話</string>
+    <string name="forget_send_service">寄送客服信箱</string>
+    <string name="forget_back_login">返回登入</string>
+    <string name="forget_account_send_to_your_email">您的帳號為</string>
+    <string name="forget_account_send_to_your_email_description">%1$s</string>
+    <string name="forget_reset_password">重設您的密碼</string>
+    <string name="forget_reset_password_description">密碼包含英數、底線，長度介於6~16個字元</string>
+    <string name="forget_please_enter_password">請輸入密碼</string>
+    <string name="forget_please_enter_password_again">請再次輸入密碼</string>
+    <string name="forget_reset_password_email_send">重置密碼信件已寄出</string>
+    <string name="forget_reset_password_email_send_description">已經將密碼重置信寄至 %1$s</string>
+    <string name="forget_reset_success">重設密碼成功！\n 請使用新密碼登入。</string>
+    <string name="forget_please_enter_account">請輸入您的帳號</string>
+    <string name="forget_enter_email">請輸入帳號(email)</string>
+    <string name="forget_send_to_phone">發送認證碼到我的手機</string>
+    <string name="forget_send_to_email">發送重設連結到我的 email 信箱</string>
+    <string name="forget_format_error">格式錯誤</string>
+    <string name="forget_password_not_right">兩者密碼不符</string>
+
+
+    <!--Home-->
+    <string name="home_maybe_interest">你可能有興趣</string>
+    <string name="home_maybe_interest_description">依據你的會員角色設定推薦</string>
+    <string name="home_change">換一批</string>
+    <string name="home_setting_member">設定會員角色更精確，GO！</string>
+    <string name="home_recommend">為你推薦</string>
+    <string name="home_recommend_description">依據你最常閱讀的主題推薦</string>
+    <string name="home_focus">關注</string>
+    <string name="home_focused">已關注</string>
+    <string name="home_recommend_focus">推薦關注</string>
+    <string name="home_free">限時免費</string>
+    <string name="home_free_description">商周會員限定</string>
+    <string name="home_international_media_area">國際媒體專區</string>
+    <string name="home_more">更多</string>
+    <string name="home_master_read_list">大師的閱讀清單</string>
+    <string name="home_master_more">查看完整清單</string>
+    <string name="home_music">音頻</string>
+    <string name="home_deep_issue">深度議題</string>
+    <string name="home_recently_update">最近更新</string>
+    <string name="home_look_all_list">查看完整清單</string>
+    <string name="home_join_bw">加入商周會員</string>
+    <string name="home_join_bw_description">即可免費閱讀此篇全文</string>
+    <string name="home_register_or_login">註冊/登入</string>
+    <string name="home_continue">繼續瀏覽</string>
+    <string name="home_month">%1$s月</string>
+
+    <!--Main Search-->
+    <string name="home_search_all">所有內容</string>
+    <string name="home_search_runtime">即時觀點</string>
+    <string name="home_search_magazine">雜誌文章</string>
+    <string name="home_search_music">音頻</string>
+    <string name="home_search_journal">選擇期數</string>
+    <string name="home_filter_journal">篩選期數</string>
+    <string name="home_search_reset">重置</string>
+
+    <!--Article Detail-->
+    <string name="txt_note">加入筆記</string>
+    <string name="txt_share">分享</string>
+    <string name="detail_subject">訂閱</string>
+    <string name="detail_gift">贈送</string>
+    <string name="detail_summary">摘要</string>
+    <string name="detail_extended_read">延伸閱讀</string>
+    <string name="detail_series_article">系列文章</string>
+    <string name="detail_choose_save_type">選擇分類</string>
+
+    <!--Payment-->
+    <string name="payment_last_content">付費最新內容</string>
+    <string name="payment_item_more">展開更多</string>
+    <string name="payment_close_item">收合項目</string>
+
+</resources>

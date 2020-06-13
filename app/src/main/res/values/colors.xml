@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cd0505</color>
+    <color name="colorPrimaryDark">#cd0505</color>
+    <color name="colorAccent">#cd0505</color>
+
+    <!--Dark mode-->
+    <color name="darkPrimary">#28292e</color>
+    <color name="secTextColor">#888888</color>
+
+    <!---->
+    <color name="main_red">#cd0505</color>
+    <color name="wording_gray">#424242</color>
+    <color name="deep_red01">#aa0000</color>
+    <color name="deep_red02">#900101</color>
+    <color name="gold">#dd9f60</color>
+    <color name="mid_gray">#757575</color>
+    <color name="bg_color">#dcdcdc</color>
+    <color name="light_gray">#b9b9b9</color>
+    <color name="light_gray_a20">#33b9b9b9</color>
+    <color name="wording_gray_a60">#99424242</color>
+    <color name="black_a80">#cc000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black_87">#de000000</color>
+    <color name="black_54">#8a000000</color>
+    <color name="shadow">#66000000</color>
+
+    <!--Login-->
+    <color name="fb_bg">#4065b4</color>
+    <color name="login_white">#f6f6f6</color>
+
+    <!--Article Detail-->
+    <color name="main_read_a20">#51cd0505</color>
+    <color name="main_read_a10">#19cd0505</color>
+    
+</resources>

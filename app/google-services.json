@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "905964244931",
+    "firebase_url": "https://deep-ray-146703.firebaseio.com",
+    "project_id": "deep-ray-146703",
+    "storage_bucket": "deep-ray-146703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905964244931:android:9b8acf89d7070df5",
+        "android_client_info": {
+          "package_name": "com.zlm.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905964244931-8g2915lh9kgiftfaslmmbmouclje9d9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNtsLILWQkhrMs-o-IBMdhKJ3OZAoI1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905964244931-8g2915lh9kgiftfaslmmbmouclje9d9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905964244931-s6oh5lm4514ee3v283ot5albae1l26b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "come.bw.demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905964244931:android:b821e0ec57d6535a",
+        "android_client_info": {
+          "package_name": "com.zlm.project.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905964244931-8g2915lh9kgiftfaslmmbmouclje9d9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNtsLILWQkhrMs-o-IBMdhKJ3OZAoI1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905964244931-8g2915lh9kgiftfaslmmbmouclje9d9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905964244931-s6oh5lm4514ee3v283ot5albae1l26b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "come.bw.demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905964244931:android:d57137dfff27711c",
+        "android_client_info": {
+          "package_name": "tw.com.businessweekly.businessweekly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905964244931-6iu82a8vs9vcaiovmec7kcocgm07kbr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.com.businessweekly.businessweekly",
+            "certificate_hash": "90af6da37a9474b6a75a29969a7534e90d4e0040"
+          }
+        },
+        {
+          "client_id": "905964244931-8g2915lh9kgiftfaslmmbmouclje9d9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNtsLILWQkhrMs-o-IBMdhKJ3OZAoI1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905964244931-8g2915lh9kgiftfaslmmbmouclje9d9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905964244931-s6oh5lm4514ee3v283ot5albae1l26b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "come.bw.demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905964244931:android:059e0c7ea7ead08f",
+        "android_client_info": {
+          "package_name": "tw.com.businessweekly.businessweekly.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905964244931-191bvi1jk1f6k0r837trd6of785mrctb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.com.businessweekly.businessweekly.dev",
+            "certificate_hash": "90af6da37a9474b6a75a29969a7534e90d4e0040"
+          }
+        },
+        {
+          "client_id": "905964244931-8g2915lh9kgiftfaslmmbmouclje9d9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNtsLILWQkhrMs-o-IBMdhKJ3OZAoI1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905964244931-8g2915lh9kgiftfaslmmbmouclje9d9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905964244931-s6oh5lm4514ee3v283ot5albae1l26b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "come.bw.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

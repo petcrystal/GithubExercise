@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_red"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_channel"
+            android:icon="@drawable/ic_channel_red"
+            android:title="@string/nav_channel" />
+        <item
+            android:id="@+id/nav_hot"
+            android:icon="@drawable/ic_hot_red"
+            android:title="@string/nav_hot" />
+        <item
+            android:id="@+id/nav_pay"
+            android:icon="@drawable/ic_payment_red"
+            android:title="@string/nav_pay" />
+        <item
+            android:id="@+id/nav_my"
+            android:icon="@drawable/ic_my"
+            android:title="@string/nav_my" />
+    </group>
+
+</menu>
